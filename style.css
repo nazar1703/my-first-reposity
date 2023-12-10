@@ -1,0 +1,18 @@
+*{
+	background-color: skyblue;
+	color: white;
+	text-align: center;
+ font-family: monospace;
+}
+  img{
+  	width: 300px;
+}
+ul{
+	list-style: square;
+	background-color: black;
+	border: 3px solid white;
+	width: 300px;
+	display: block;
+	margin: 20px auto;
+	text-align: left;
+}
